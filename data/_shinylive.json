@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "model_coefficients.rds": {
+      "type": "binary"
+    }
+  }
+}

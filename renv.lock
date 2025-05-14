@@ -1,0 +1,38 @@
+{
+  "packages": {
+    "R": {
+      "version": "4.1.0",
+      "source": "CRAN",
+      "repositories": [
+        "https://cloud.r-project.org"
+      ],
+      "dependencies": {
+        "shiny": {
+          "version": "1.6.0"
+        },
+        "dplyr": {
+          "version": "1.0.7"
+        },
+        "ggplot2": {
+          "version": "3.3.5"
+        },
+        "broom": {
+          "version": "0.7.9"
+        },
+        "flextable": {
+          "version": "0.6.7"
+        },
+        "officer": {
+          "version": "0.3.18"
+        },
+        "pROC": {
+          "version": "1.18.0"
+        },
+        "data.table": {
+          "version": "1.14.0"
+        }
+      }
+    }
+  },
+  "hash": "d2f3a4b5c6e7f8g9h0i1j2k3l4m5n6o7p8q9r0s1t2u3v4w5x6y7z8a9b0c1d2e"
+}

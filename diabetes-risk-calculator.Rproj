@@ -1,0 +1,32 @@
+name: Diabetes Risk Calculator
+version: 1.0
+output_dir: app
+ignore: 
+  - .Rproj.user
+  - .Rhistory
+  - .RData
+  - .Ruserdata
+  - renv.lock
+  - data/model_coefficients.rds
+  - tests/test_calculations.R
+  - deploy.R
+  - install_dependencies.R
+  - README.md
+  - app/www/custom.css
+  - app/www/logo.svg
+  - app/global.R
+  - app/server.R
+  - app/ui.R
+  - R/calculate_risk.R
+  - R/generate_report.R
+  - R/plot_functions.R
+  - app/www/custom.css
+  - app/www/logo.svg
+  - data/model_coefficients.rds
+  - R/calculate_risk.R
+  - R/generate_report.R
+  - R/plot_functions.R
+  - tests/test_calculations.R
+  - deploy.R
+  - install_dependencies.R
+  - README.md
